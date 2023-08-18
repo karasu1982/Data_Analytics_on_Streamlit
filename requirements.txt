@@ -1,0 +1,23 @@
+fastapi==0.74.1
+streamlit==1.7.0
+uvicorn==0.17.5
+python-dotenv==0.19.2
+plotly==5.13.1
+plotly_express==0.4.1
+pandas
+numpy
+click==8.0.4
+scikit-learn
+#sklearn==1.2.2
+#statsmodels==0.13.5make 
+wget==3.2
+seaborn==0.12.2
+japanize-matplotlib==1.1.3
+
+# DuckDB追加
+duckdb==0.8.1
+duckdb-engine==0.9.0
+
+# VS Code追加
+protobuf==3.20.1
+altair==4.0
