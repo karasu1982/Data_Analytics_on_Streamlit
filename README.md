@@ -45,4 +45,9 @@ bash start.sh
 
 [Zenn](https://zenn.dev/paxdare_labo)
 
+## References
+* https://qiita.com/wgsbt4859/items/071de4b8cb4306c8ceec
+* https://discuss.streamlit.io/t/display-shap-diagrams-with-streamlit/1029
+* https://docs.streamlit.io/library/api-reference/widgets
+
 ## Licence
