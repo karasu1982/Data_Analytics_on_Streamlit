@@ -50,4 +50,6 @@ bash start.sh
 * https://discuss.streamlit.io/t/display-shap-diagrams-with-streamlit/1029
 * https://docs.streamlit.io/library/api-reference/widgets
 
+* https://logmi.jp/tech/articles/329096
+
 ## Licence
